@@ -5,4 +5,5 @@ git<?php
     echo ('tes gunduk');
     echo "<br> ini Iwan";
     echo array(1, 2, 3);
+    echo "test\n"
 ?>
